@@ -1,4 +1,5 @@
 # Derek Huizar — Portafolio
+# Este es un cambio en la rama dev
 
 Portafolio personal construido con **Vite + React + JavaScript** y **Tailwind CSS v4**.
 
